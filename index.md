@@ -2,7 +2,7 @@
 <html>
 <body>
 Tekstiä. 
-<img src="Anticipation_Juho_Manninen" alt="anticipation" height="640" width="360">  
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Ba%C3%B1os_de_Vakil%2C_Shiraz%2C_Ir%C3%A1n%2C_2016-09-24%2C_DD_36-38_HDR.jpg" alt="kuva" height="640" width="360">  
 </html>  
 
 
