@@ -1,8 +1,11 @@
 <!DOCTYPE html>
 <html>
+<head>
+  <title>Page title</title>
+  </head>
 <body>
-Tekstiä. 
-<img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Ba%C3%B1os_de_Vakil%2C_Shiraz%2C_Ir%C3%A1n%2C_2016-09-24%2C_DD_36-38_HDR.jpg" alt="kuva">  
+  <h1>Tekstiä.</h1>
+  </body>
 </html>  
 
 
