@@ -7,5 +7,3 @@
   <h1>Tekstiä.</h1>
   </body>
 </html>  
-
-
