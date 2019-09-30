@@ -1,7 +1,8 @@
 <!DOCTYPE html>
 <html>
 <body>
-Tekstiä.  
+Tekstiä. 
+<img src="Anticipation_Juho_Manninen" alt="anticipation" height="640" width="360">  
 </html>  
 
 
